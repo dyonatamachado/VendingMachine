@@ -31,5 +31,4 @@ polimorfismo para não precisar especificar o tipo de produto. Também utilizei 
 
 Sei que preciso evoluir mas conheço meu potencial de crescimento. Portanto, peço que independente da aprovação ou não, eu possa ter um feedback de vocês para entender em que pontos preciso melhorar.
 
-Grato pela compreensão
-Dyonata Machado
+Desde já fico grato pela compreensão
