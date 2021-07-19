@@ -1,0 +1,16 @@
+/home/dyonata/LogicaDeProgramacao/bin/Debug/net5.0/LogicaDeProgramacao
+/home/dyonata/LogicaDeProgramacao/bin/Debug/net5.0/LogicaDeProgramacao.deps.json
+/home/dyonata/LogicaDeProgramacao/bin/Debug/net5.0/LogicaDeProgramacao.runtimeconfig.json
+/home/dyonata/LogicaDeProgramacao/bin/Debug/net5.0/LogicaDeProgramacao.runtimeconfig.dev.json
+/home/dyonata/LogicaDeProgramacao/bin/Debug/net5.0/LogicaDeProgramacao.dll
+/home/dyonata/LogicaDeProgramacao/bin/Debug/net5.0/ref/LogicaDeProgramacao.dll
+/home/dyonata/LogicaDeProgramacao/bin/Debug/net5.0/LogicaDeProgramacao.pdb
+/home/dyonata/LogicaDeProgramacao/obj/Debug/net5.0/LogicaDeProgramacao.csprojAssemblyReference.cache
+/home/dyonata/LogicaDeProgramacao/obj/Debug/net5.0/LogicaDeProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/dyonata/LogicaDeProgramacao/obj/Debug/net5.0/LogicaDeProgramacao.AssemblyInfoInputs.cache
+/home/dyonata/LogicaDeProgramacao/obj/Debug/net5.0/LogicaDeProgramacao.AssemblyInfo.cs
+/home/dyonata/LogicaDeProgramacao/obj/Debug/net5.0/LogicaDeProgramacao.csproj.CoreCompileInputs.cache
+/home/dyonata/LogicaDeProgramacao/obj/Debug/net5.0/LogicaDeProgramacao.dll
+/home/dyonata/LogicaDeProgramacao/obj/Debug/net5.0/ref/LogicaDeProgramacao.dll
+/home/dyonata/LogicaDeProgramacao/obj/Debug/net5.0/LogicaDeProgramacao.pdb
+/home/dyonata/LogicaDeProgramacao/obj/Debug/net5.0/LogicaDeProgramacao.genruntimeconfig.cache

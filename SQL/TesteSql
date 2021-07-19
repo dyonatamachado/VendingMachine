@@ -1,0 +1,57 @@
+Resposta 2.1
+
+SELECT *
+FROM tabela_pessoa
+INNER JOIN tabela_evento
+ON tabela_pessoa.id = tabela_evento.pessoa_id;
+
+Resposta 2.2
+
+SELECT *
+FROM tabela_pessoa
+WHERE nome LIKE '%Doe';
+
+Resposta 2.3
+
+INSERT INTO tabela_evento (id, evento, pessoa_id)
+VALUES (5, "Evento E", 5); 
+
+Resposta 2.4
+
+UPDATE tabela_evento
+SET pessoa_id = 1
+WHERE id = 4;
+
+Resposta 2.5
+
+DELETE FROM tabela_evento WHERE id=2;
+
+Resposta 2.6
+
+DELETE FROM tabela_pessoa
+WHERE id NOT IN (SELECT pessoa_id FROM tabela_evento);
+
+Resposta 2.7
+
+ALTER TABLE tabela_pessoa
+ADD idade int;
+
+Resposta 2.8
+
+CREATE TABLE tabela_telefone (
+    id: int NOT NULL PRIMARY KEY,
+    telefone: varchar(200)
+    pessoa_id: int FOREIGN KEY REFERENCES tabela_pessoa(id)
+);
+
+Resposta 2.9
+
+ALTER TABLE tabela_telefone
+ADD indice int; 
+
+ALTER TABLE tabela_telefone
+ADD UNIQUE (indice); 
+
+Resposta 2.10
+
+DROP TABLE tabela_telefone; 
