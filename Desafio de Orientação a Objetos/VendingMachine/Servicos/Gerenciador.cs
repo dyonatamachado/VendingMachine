@@ -6,8 +6,6 @@ namespace VendingMachine.Servicos
     public class Gerenciador : IEstoque, IVenda
     {
         static List<Produto> estoque = new List<Produto>();
-        public static int VendasRealizadas { get; set; }
-        public static double ValorTotalDeVendasRealizadas { get; set; }
 
         public Gerenciador()
         {
