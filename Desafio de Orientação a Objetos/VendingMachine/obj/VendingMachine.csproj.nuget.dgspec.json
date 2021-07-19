@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dyonata/Área de Trabalho/VendingMachine/VendingMachine.csproj": {}
+    "/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/VendingMachine.csproj": {}
   },
   "projects": {
-    "/home/dyonata/Área de Trabalho/VendingMachine/VendingMachine.csproj": {
+    "/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/VendingMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dyonata/Área de Trabalho/VendingMachine/VendingMachine.csproj",
+        "projectUniqueName": "/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/VendingMachine.csproj",
         "projectName": "VendingMachine",
-        "projectPath": "/home/dyonata/Área de Trabalho/VendingMachine/VendingMachine.csproj",
+        "projectPath": "/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/VendingMachine.csproj",
         "packagesPath": "/home/dyonata/.nuget/packages/",
-        "outputPath": "/home/dyonata/Área de Trabalho/VendingMachine/obj/",
+        "outputPath": "/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dyonata/.nuget/NuGet/NuGet.Config"

@@ -14,3 +14,19 @@
 /home/dyonata/Área de Trabalho/VendingMachine/obj/Debug/net5.0/ref/VendingMachine.dll
 /home/dyonata/Área de Trabalho/VendingMachine/obj/Debug/net5.0/VendingMachine.pdb
 /home/dyonata/Área de Trabalho/VendingMachine/obj/Debug/net5.0/VendingMachine.genruntimeconfig.cache
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/bin/Debug/net5.0/VendingMachine
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/bin/Debug/net5.0/VendingMachine.deps.json
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/bin/Debug/net5.0/VendingMachine.runtimeconfig.json
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/bin/Debug/net5.0/VendingMachine.runtimeconfig.dev.json
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/bin/Debug/net5.0/VendingMachine.dll
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/bin/Debug/net5.0/ref/VendingMachine.dll
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/bin/Debug/net5.0/VendingMachine.pdb
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/obj/Debug/net5.0/VendingMachine.csprojAssemblyReference.cache
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/obj/Debug/net5.0/VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/obj/Debug/net5.0/VendingMachine.AssemblyInfoInputs.cache
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/obj/Debug/net5.0/VendingMachine.AssemblyInfo.cs
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/obj/Debug/net5.0/VendingMachine.csproj.CoreCompileInputs.cache
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/obj/Debug/net5.0/VendingMachine.dll
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/obj/Debug/net5.0/ref/VendingMachine.dll
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/obj/Debug/net5.0/VendingMachine.pdb
+/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/obj/Debug/net5.0/VendingMachine.genruntimeconfig.cache

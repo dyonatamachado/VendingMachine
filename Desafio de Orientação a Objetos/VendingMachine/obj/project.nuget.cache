@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tOHkcp/NtDcGV9eXCl2gzugHDpv3t+4Jt+rI0e5RHjsWuWYmgVp6GXeN6yVXe2pUM5iUMf6fRZndu8xLijxnRg==",
+  "dgSpecHash": "Fbson2Q5fXhWtycfU1rocxVrjjcQsQOPIeCmV5wz7ZyWcKYg6wTxb+DeWc9RPMARhbaumI2adLGaRxZPDBrQ/Q==",
   "success": true,
-  "projectFilePath": "/home/dyonata/Área de Trabalho/VendingMachine/VendingMachine.csproj",
+  "projectFilePath": "/home/dyonata/Área de Trabalho/TesteLabLuby/Desafio de Orientação a Objetos/VendingMachine/VendingMachine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
