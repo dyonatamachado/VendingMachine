@@ -268,6 +268,8 @@ namespace VendingMachine.Servicos
                 Console.WriteLine("Produto entregue com sucesso. Tecle Enter para finalizar");
                 Console.ReadLine();
                 Console.Clear();
+                
+                Program.Encerrar();
             }
         }
 
